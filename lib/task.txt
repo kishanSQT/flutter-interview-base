@@ -1,0 +1,20 @@
+Greetings,
+
+These are the bellow task details.
+
+-> There are two screens in this project one is list screen and second is details screen.
+-> you can find two sample design images in assets folder please create both the screens as per provided design.
+-> Please use bellow api to fetch the users and set it in the list screen, bare in mind that you will have to use pagination in this screen
+    - URL : https://reqres.in/api/users?page={PAGE_NO}
+    - HTTP METHOD : GET
+-> This url will have one avatar, email, first_name and last_name keys so please use these keys in design.
+-> After the list screen move on to details screen and set this data accordingly to details screen when user clicks on the list.
+-> Please use bellow api to fetch the user's details and set it in the details screen.
+    - URL : https://reqres.in/api/users/{USER_ID}
+    - HTTP METHOD : GET
+-> In details screen there is text field when user clicks on the SELECT button go back to the list screen and prompt that selected user's name and entered value from text field in popup.
+
+Thanks and best of luck.
+
+
+NOTE:- In above task you will perform api calling, response handling, pagination, navigation and designing.
